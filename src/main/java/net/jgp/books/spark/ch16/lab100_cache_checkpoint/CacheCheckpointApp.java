@@ -71,7 +71,7 @@ public class CacheCheckpointApp {
 
   /**
    * 
-   * @param df
+   * @param recordCount
    * @param mode
    * @return
    */
